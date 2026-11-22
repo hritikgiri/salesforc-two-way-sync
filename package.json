@@ -1,0 +1,1 @@
+{"name":"local-sync-poc","version":"1.0.0","private":true,"scripts":{"demo":"tsc && node dist/demo.js"},"devDependencies":{"@types/node":"^20.0.0","typescript":"^5.7.0"}}
